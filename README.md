@@ -15,6 +15,9 @@ https://wizmaninc.com/
 **3. UrbaneSoft**  
 https://urbanesoft.com/
 
+**4. Manufacturing Site Concept**  
+https://manufacturing-site-concept.vercel.app/
+
 ---
 
 # 🧰 Technical Skills
@@ -116,7 +119,6 @@ https://urbanesoft.com/
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-7C3AED?style=for-the-badge)
 ![Backend Integration](https://img.shields.io/badge/Backend%20Integration-DC2626?style=for-the-badge)
 ![Data Management](https://img.shields.io/badge/Data%20Management-374151?style=for-the-badge)
-![Database Connectivity](https://img.shields.io/badge/Database%20Connectivity-0891B2?style=for-the-badge)
 
 </td>
 </tr>
@@ -267,6 +269,22 @@ The work involved understanding stakeholder requirements and supporting document
 `Requirements Analysis` · `UI/UX` · `Architecture` · `Database Design` · `API Integration` · `AI & Modern Development` · `Technical Documentation` · `System Diagrams` · `Cloud` · `CI/CD` · `Security` · `Deployment`
 
 🔗 **Live Website:** https://urbanesoft.com/
+
+---
+
+## 🏭 Manufacturing Site Concept
+
+**Manufacturing & Heavy Machinery Website Concept**
+
+Created a complete manufacturing website concept focused on heavy machinery, engineering, automation, and Industry 4.0. Worked on the overall UI/UX, responsive frontend, navigation, product sections, manufacturing workflows, industry sections, project showcases, insights, animations, and interactive elements.
+
+The project also involved understanding the business structure and content, creating the overall website flow, troubleshooting UI issues, and deploying the concept for live demonstration.
+
+**Key Areas**
+
+`HTML` · `CSS` · `JavaScript` · `UI/UX` · `Responsive Design` · `Animations` · `DOM` · `IntersectionObserver` · `Local Storage` · `Git` · `GitHub` · `Vercel`
+
+🔗 **Live Website:** https://manufacturing-site-concept.vercel.app/
 
 ---
 
